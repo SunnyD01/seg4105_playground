@@ -1,3 +1,4 @@
+# Tutorial 1
 Dennis Sun 300111813
 Prof. Andrew Forwards
 Tutorial 01
@@ -6,6 +7,7 @@ Tutorial 01
 
 - Many types of PM
 - Most common types of PM seems to be Project vs Product Manager
+- Often used interchangeably
 - Tasks are similar but they focus on differant aspects of a workflow
 
 ### Product Manager
