@@ -8,7 +8,7 @@ Dennis Sun 300111813
 
 - Make bets instead of maintaining backlogs.
 - Backlogs tend to accumulate tasks that may no longer be relevant
-- Ideas are abundant, but truly important ideas will resurface. If an idea or issue is significant, it will come back to attention, motivating the team to shape a solution and allocate time for it in the next cycle.
+- Important ideas will resurface. If an idea or issue is significant it will be recure then a cycle can be allocated to the idea
 
 
 ## Chapter 8: The Betting Table
