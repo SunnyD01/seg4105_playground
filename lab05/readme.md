@@ -14,3 +14,6 @@ Discord: Team voice calls for meetings <br>
 My Note Taking: https://github.com/SunnyD01/seg4105_playground/blob/main/tut05/README.md <br>
 Tracking Meeting Minutes: https://github.com/Macomatic/T40-Mouse-Accessibility-Attachment/blob/main/Minutes.md#october-10-2023-400---500-pm <br>
 Tracking Changes: https://github.com/SunnyD01/Cards2ElectricBoogaloo/blob/master/seg4105/readme.md
+
+
+alimirferdos@gmail.com
