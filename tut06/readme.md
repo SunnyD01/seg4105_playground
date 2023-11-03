@@ -4,7 +4,7 @@
 
 ### Participants
 
-Michael Bosciglio, Chetan Mandur, Marco Vethanayagam, Hong Yue Wang
+Michael Bosciglio, Chetan Mandur, Marco Vethanayagam, Hong Yue Wang, Dennis Sun
 
 ### Purpose
 Betting table to select a pitch to work on
@@ -33,6 +33,7 @@ Work cycle kick-off meeting
 - Separate work amongst teammates based on their expertise and previous work done on web app
 - Post kick-off message## Betting Table Notes
 
+# My notes
 ### Note
 I am not a part of the capstone team, therefore, it is difficult for me to comment on the rabbit holes and no gos listed in each pitch. I am only able to comment on the general structure and not the valididty of the content
 
