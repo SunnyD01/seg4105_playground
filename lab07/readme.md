@@ -17,3 +17,27 @@ None at the moment
 
 ## Hillchart
 ![Alt text](image.png)
+
+# Group Notes
+
+### Marco
+
+- Worked on endpoints for overlay
+- Work on integration of endpoint
+- Integration testing
+- Unit testing for new endpoints
+
+### Michael
+
+- Cypress testing
+
+### Hong Yue
+
+- Electron base files
+
+### Chetan
+
+- Worked on keyboard-popup
+- This is a custom form/input
+- Custom Input:
+- Keys are toggle, pressing a key adds it to the command, deselecting it removes it from the command
