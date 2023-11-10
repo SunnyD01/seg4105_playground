@@ -45,9 +45,10 @@ The goal of the scrum is to get updates from all team members on progress, block
 - Estimates don't show uncertainty. Prior experience can make tasks faster, novel tasks may be slower
 - Managers should be able to see the status of the project without discussing it within a group or with each developer individually. They can simply view the hill chart and see the lists for each of their developers
 
+# Rough Plan
+1. Determine key areas for improvement. What works right now? What doesn't?
+2. Create unit tests
+3. Plan the new class
+4. Implement the class and update game state
+5. Verify the work against the unit tests
 
-Determine key areas for improvement. What works right now? What doesn't?
-Create unit tests
-Plan the new class
-Implement the class and update game state
-Verify the work against the unit tests
